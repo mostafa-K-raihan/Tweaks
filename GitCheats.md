@@ -11,3 +11,9 @@ Here `-D` will permenantly delete your branch.
 ` 
 is important, and `-E`
 will receive a regex pattern
+
+
+**Hard Reset to latest remote master**
+``
+git reset --hard <remote-name>/master
+``
