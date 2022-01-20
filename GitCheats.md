@@ -20,3 +20,11 @@ will receive a regex pattern
 ``
 git reset --hard <remote-name>/master
 ``
+
+
+
+**Use Local Branch Name as Remote while Pushing for the first time**
+--------------------------------------
+``
+git push -u <origin> HEAD
+``
